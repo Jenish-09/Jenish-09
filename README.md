@@ -30,4 +30,4 @@ Tackling real world problems with proper reasoning and critical thinking fascina
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
 
 </div>
-</div> <div align="center"> -- **Know Thyself** -- </sub> </div>
+</div> <div align="center"> - Know Thyself - </sub> </div>
