@@ -1,13 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=170&section=header&text=Jenish%20Budhathoki&fontSize=40&fontColor=ffffff&desc=Security%20Engineering%20%7C%20SRE%20%7C%20Incident%20Response&descAlignY=65&descSize=17" width="100%"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jenish-09)
 
 </div>
 
-## About
+## About Me
 
 Final-year CS student at San José State University, focused on security engineering and site reliability. AWS Certified Cloud Practitioner. Working through systems fundamentals — C, Unix internals, networking — as the base layer for incident response and infrastructure security work.
 
@@ -27,13 +24,7 @@ Final-year CS student at San José State University, focused on security enginee
 ## Currently
 
 - Building out systems and security fundamentals: shell tools in C, port scanning, network internals
-- Working through TryHackMe's SOC Level 1 path and OverTheWire Bandit
 - Targeting SRE / Security Engineering internships
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenish-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish-09&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
