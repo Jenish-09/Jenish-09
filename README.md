@@ -17,6 +17,7 @@ Tackling real world problems with proper reasoning and critical thinking fascina
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Scheme](https://img.shields.io/badge/Scheme-1E90FF?style=flat-square&logo=gnu&logoColor=white)
 
 </div>
 
@@ -28,12 +29,5 @@ Tackling real world problems with proper reasoning and critical thinking fascina
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
 
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenish-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish-09&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
-
-</div>
+</div> <div align="center"> <sub> γνῶθι σεαυτόν — Know Thyself </sub> </div>
