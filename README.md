@@ -6,7 +6,7 @@ Hello there, I am a skeptical optimist trying to learn and build better tomorrow
 
 How am i going to do it? I haven't figured it out *yet* - I'm still finding out. 
 
-Tackling real world problems with proper reasoning and critical thinking fascinates me. Thinking, understanding and assessing come first; coding is just the 5% of the whole equation. 
+Tackling real world problems with proper reasoning and critical thinking fascinates me. Understanding the problem, assessing it, and reasoning through it makes up 95% of the process; implementation is only the final 5%. 
 
 
 ## Tech & Tools 🧑‍💻
