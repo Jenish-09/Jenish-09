@@ -1,14 +1,14 @@
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jenish-09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
 
 </div>
 
-## About Me
+## About
 
 Final-year CS student at San José State University, focused on security engineering and site reliability. AWS Certified Cloud Practitioner. Working through systems fundamentals — C, Unix internals, networking — as the base layer for incident response and infrastructure security work.
 
-## Stack
+## Tech & Tools
 
 <div align="center">
 
@@ -21,10 +21,14 @@ Final-year CS student at San José State University, focused on security enginee
 
 </div>
 
-## Currently
+## Projects
 
-- Building out systems and security fundamentals: shell tools in C, port scanning, network internals
-- Targeting SRE / Security Engineering internships
+- **RSPS Game** — [add a one-line description here]
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenish-09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenish-09&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
