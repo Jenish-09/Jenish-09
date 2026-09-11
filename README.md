@@ -1,14 +1,15 @@
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
-
 </div>
 
-## About
+## About Me 👋
 
-Final-year CS student at San José State University, focused on security engineering and site reliability. AWS Certified Cloud Practitioner. Working through systems fundamentals — C, Unix internals, networking — as the base layer for incident response and infrastructure security work.
+Hello there, I am a skeptical optimist trying to learn and build better tomorrow with the ability and prowess of technology.
 
-## Tech & Tools
+How am i going to do it? I haven't figured it out *yet* - Im still finding out . 
+
+Tackling real world problems with proper reasoning and critical thinking fascinates me. Thinking, understanding and assessing come first; coding is just the 5% of the whole equation. 
+
+
+## Tech & Tools 🧑‍💻
 
 <div align="center">
 
@@ -21,9 +22,16 @@ Final-year CS student at San José State University, focused on security enginee
 
 </div>
 
-## Projects
+## Projects 🏗️
 
-- **RSPS Game** — [add a one-line description here]
+- **RSPS Game** - Demonstrating the use of algorithms
+
+## Connect with Me 🤝
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jenish-budhathoki-858722248)
+
 
 <div align="center">
 
@@ -32,6 +40,4 @@ Final-year CS student at San José State University, focused on security enginee
 
 </div>
 
-<div align="center">
-<sub>"The universe is change; our life is what our thoughts make it." — Marcus Aurelius, Meditations IV.3</sub>
 </div>
