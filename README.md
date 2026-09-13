@@ -23,7 +23,7 @@ Tackling real world problems with proper reasoning and critical thinking fascina
 
 ## Projects 🏗️
 
-- **RSPS Game** - Demonstrating the use of algorithms
+- RAG API for text base Q&A using Python, ChromaDB, OLLAMA and Docker
 
 ## Connect with Me 🤝
 
